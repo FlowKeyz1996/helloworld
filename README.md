@@ -1,8 +1,15 @@
-# helloworld
-My first repository
+<doctype!html>
+<html>
+<head>
+<meta charset utf-8/>
+<title> Helloworld</title>
+</head>
 
-Hello, 
- I am flowkeyz I love html css and JavaScript
-
-And I am playing around with my first repository on
-GitHub 
+<body>
+    <h1>This is my first repository</h1>
+    <p> Hello?? This is my first repository and am 
+        looking forward to having a great time here
+         And also contribute to the workings of the
+        World </p>
+</body>
+<html>
